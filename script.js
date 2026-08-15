@@ -54,6 +54,8 @@ reveals.forEach(el => revealObs.observe(el));
 /* ── TYPING EFFECT ── */
 const roles = [
     "Software Engineering Student",
+    "Future AI Engineer",
+    "Learning AI Skills",
     "Web Developer",
     "Python Enthusiast",
     "Problem Solver",
